@@ -24,7 +24,7 @@ A bash utility script for easily querying common AWS services and displaying res
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/aws_services-script.git
+   git clone [https://github.com/Shridharshukl/aws_services-script.git]
    cd aws_services-script
    ```
 
