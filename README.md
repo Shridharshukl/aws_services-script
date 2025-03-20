@@ -32,8 +32,3 @@ A bash utility script for easily querying common AWS services and displaying res
    ```
    chmod +x aws_help.sh
    ```
-
-## 📖 Usage
-
-Run the script and follow the interactive prompts:
-
